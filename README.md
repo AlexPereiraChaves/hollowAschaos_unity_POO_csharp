@@ -1,4 +1,4 @@
-### Hollow As Chaos é um jogo feito por mim quando era mais jovem, feito apenas por hobby* na linguagem c# usando progromação orientada a objetos.
+### Hollow As Chaos é um jogo feito por mim quando era mais jovem, feito apenas por hobby* na linguagem c# usando programação orientada a objetos.
 
 É um simples jogo e sem polimento, ou seja, tem vários bugs. Salve sempre, não pelos bugs, mas pela dificuldade!! 
 
